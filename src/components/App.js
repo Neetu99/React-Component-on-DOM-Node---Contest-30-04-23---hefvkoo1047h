@@ -1,8 +1,6 @@
 import React from "react";
 
 function App(){
-return(
-  <div><p>Now I can render any React component on any DOM node Iwant using ReactDOM.render</p></div>
-  ):}
+return(<div><p>Now I can render any React component on any DOM node Iwant using ReactDOM.render</p></div>):}
 export default App;
 
